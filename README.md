@@ -1,0 +1,2 @@
+# competition-Programming-templates
+僕が競技プログラミングをする際のマクロやアルゴリズムなどのテンプレートです
